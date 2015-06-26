@@ -1,2 +1,4 @@
 name: William Pierce
 markdown: kramdown
+
+exclude: [node_modules]

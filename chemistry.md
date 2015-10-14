@@ -4,9 +4,6 @@ title: Chemistry Projects
 permalink: /chemistry/
 ---
 
-This seems to be some sort of place to write things..hmm
-
-
 Here's a a sampling of some chemistry projects I did senior year of high school
 
 The Chemical Chameleon

@@ -6,7 +6,6 @@ description: >
 baseurl: ""
 url: "http://wgpierce.github.io"
 github_username: wgpierce
-resume: /resources/William Pierce Resume.pdf
 collections:
     projects:
         output: true
